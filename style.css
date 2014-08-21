@@ -1,0 +1,73 @@
+
+body {
+	font-family: Verdana; 
+	color: #F8EAEA;
+}
+
+header {
+	background-color: #453737;
+	text-align: center;
+	color: #C1BFBF;
+	padding: 50px;
+	left: 0;
+	right: 0;
+	top: 0;
+	position: fixed;
+	opacity: .80;
+}
+
+
+#skills {
+	background-color: #735C5C;
+	color: #AEADAD; 
+	text-align: right;
+	padding: 50px;
+	margin-top: 218px;
+	border-radius: 5px;
+
+}
+
+#work {
+	background-color: #A18181;
+	color: #D7D6D6;
+	padding: 50px;
+	border-radius: 5px;
+}
+
+#education {
+	background-color: #CFA6A6;
+	color: #7B7A7A;
+	text-align: right;
+	padding: 50px;
+	border-radius: 5px;
+}
+
+
+#interests {
+	background-color: #E8BFBF;
+	color: #8B8A8A;
+	padding: 50px;
+	padding-bottom: 100px;
+	border-radius: 5px;
+}
+
+.footer{
+	background-color: grey;
+	height: 40px;
+	padding: 20px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	text-align: center;
+	opacity: .90;
+}
+
+
+
+img {
+		border: 2px;
+		width: 18px;
+		height: 15px;
+		text-decoration: none;
+}
